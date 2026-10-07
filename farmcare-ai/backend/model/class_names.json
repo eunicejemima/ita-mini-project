@@ -1,0 +1,230 @@
+[
+  {
+    "crop": "Apple",
+    "condition": "Apple Scab",
+    "label": "Apple - Apple Scab",
+    "type": "fungal"
+  },
+  {
+    "crop": "Apple",
+    "condition": "Black Rot",
+    "label": "Apple - Black Rot",
+    "type": "fungal"
+  },
+  {
+    "crop": "Apple",
+    "condition": "Cedar Apple Rust",
+    "label": "Apple - Cedar Apple Rust",
+    "type": "fungal"
+  },
+  {
+    "crop": "Apple",
+    "condition": "Healthy",
+    "label": "Healthy Apple",
+    "type": "healthy"
+  },
+  {
+    "crop": "Blueberry",
+    "condition": "Healthy",
+    "label": "Healthy Blueberry",
+    "type": "healthy"
+  },
+  {
+    "crop": "Cherry (Including Sour)",
+    "condition": "Powdery Mildew",
+    "label": "Cherry (Including Sour) - Powdery Mildew",
+    "type": "fungal"
+  },
+  {
+    "crop": "Cherry (Including Sour)",
+    "condition": "Healthy",
+    "label": "Healthy Cherry (Including Sour)",
+    "type": "healthy"
+  },
+  {
+    "crop": "Corn (Maize)",
+    "condition": "Cercospora Leaf Spot Gray Leaf Spot",
+    "label": "Corn (Maize) - Cercospora Leaf Spot Gray Leaf Spot",
+    "type": "fungal"
+  },
+  {
+    "crop": "Corn (Maize)",
+    "condition": "Common Rust",
+    "label": "Corn (Maize) - Common Rust",
+    "type": "fungal"
+  },
+  {
+    "crop": "Corn (Maize)",
+    "condition": "Northern Leaf Blight",
+    "label": "Corn (Maize) - Northern Leaf Blight",
+    "type": "fungal"
+  },
+  {
+    "crop": "Corn (Maize)",
+    "condition": "Healthy",
+    "label": "Healthy Corn (Maize)",
+    "type": "healthy"
+  },
+  {
+    "crop": "Grape",
+    "condition": "Black Rot",
+    "label": "Grape - Black Rot",
+    "type": "fungal"
+  },
+  {
+    "crop": "Grape",
+    "condition": "Esca (Black Measles)",
+    "label": "Grape - Esca (Black Measles)",
+    "type": "fungal"
+  },
+  {
+    "crop": "Grape",
+    "condition": "Leaf Blight (Isariopsis Leaf Spot)",
+    "label": "Grape - Leaf Blight (Isariopsis Leaf Spot)",
+    "type": "fungal"
+  },
+  {
+    "crop": "Grape",
+    "condition": "Healthy",
+    "label": "Healthy Grape",
+    "type": "healthy"
+  },
+  {
+    "crop": "Orange",
+    "condition": "Haunglongbing (Citrus Greening)",
+    "label": "Orange - Haunglongbing (Citrus Greening)",
+    "type": "bacterial"
+  },
+  {
+    "crop": "Peach",
+    "condition": "Bacterial Spot",
+    "label": "Peach - Bacterial Spot",
+    "type": "bacterial"
+  },
+  {
+    "crop": "Peach",
+    "condition": "Healthy",
+    "label": "Healthy Peach",
+    "type": "healthy"
+  },
+  {
+    "crop": "Pepper, Bell",
+    "condition": "Bacterial Spot",
+    "label": "Pepper, Bell - Bacterial Spot",
+    "type": "bacterial"
+  },
+  {
+    "crop": "Pepper, Bell",
+    "condition": "Healthy",
+    "label": "Healthy Pepper, Bell",
+    "type": "healthy"
+  },
+  {
+    "crop": "Potato",
+    "condition": "Early Blight",
+    "label": "Potato - Early Blight",
+    "type": "fungal"
+  },
+  {
+    "crop": "Potato",
+    "condition": "Late Blight",
+    "label": "Potato - Late Blight",
+    "type": "fungal"
+  },
+  {
+    "crop": "Potato",
+    "condition": "Healthy",
+    "label": "Healthy Potato",
+    "type": "healthy"
+  },
+  {
+    "crop": "Raspberry",
+    "condition": "Healthy",
+    "label": "Healthy Raspberry",
+    "type": "healthy"
+  },
+  {
+    "crop": "Soybean",
+    "condition": "Healthy",
+    "label": "Healthy Soybean",
+    "type": "healthy"
+  },
+  {
+    "crop": "Squash",
+    "condition": "Powdery Mildew",
+    "label": "Squash - Powdery Mildew",
+    "type": "fungal"
+  },
+  {
+    "crop": "Strawberry",
+    "condition": "Leaf Scorch",
+    "label": "Strawberry - Leaf Scorch",
+    "type": "fungal"
+  },
+  {
+    "crop": "Strawberry",
+    "condition": "Healthy",
+    "label": "Healthy Strawberry",
+    "type": "healthy"
+  },
+  {
+    "crop": "Tomato",
+    "condition": "Bacterial Spot",
+    "label": "Tomato - Bacterial Spot",
+    "type": "bacterial"
+  },
+  {
+    "crop": "Tomato",
+    "condition": "Early Blight",
+    "label": "Tomato - Early Blight",
+    "type": "fungal"
+  },
+  {
+    "crop": "Tomato",
+    "condition": "Late Blight",
+    "label": "Tomato - Late Blight",
+    "type": "fungal"
+  },
+  {
+    "crop": "Tomato",
+    "condition": "Leaf Mold",
+    "label": "Tomato - Leaf Mold",
+    "type": "fungal"
+  },
+  {
+    "crop": "Tomato",
+    "condition": "Septoria Leaf Spot",
+    "label": "Tomato - Septoria Leaf Spot",
+    "type": "fungal"
+  },
+  {
+    "crop": "Tomato",
+    "condition": "Spider Mites Two-Spotted Spider Mite",
+    "label": "Tomato - Spider Mites Two-Spotted Spider Mite",
+    "type": "pest"
+  },
+  {
+    "crop": "Tomato",
+    "condition": "Target Spot",
+    "label": "Tomato - Target Spot",
+    "type": "fungal"
+  },
+  {
+    "crop": "Tomato",
+    "condition": "Tomato Yellow Leaf Curl Virus",
+    "label": "Tomato - Tomato Yellow Leaf Curl Virus",
+    "type": "viral"
+  },
+  {
+    "crop": "Tomato",
+    "condition": "Tomato Mosaic Virus",
+    "label": "Tomato - Tomato Mosaic Virus",
+    "type": "viral"
+  },
+  {
+    "crop": "Tomato",
+    "condition": "Healthy",
+    "label": "Healthy Tomato",
+    "type": "healthy"
+  }
+]

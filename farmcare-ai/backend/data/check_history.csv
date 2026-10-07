@@ -1,0 +1,10 @@
+timestamp,crop,prediction,confidence,rain,soil,duration
+2026-10-05 12:02:02,Tomato,Late Blight,61.4,1–3 days ago,Normal,A few days
+2026-10-06 11:38:14,Tomato,Healthy Corn (Maize),4.3,1–3 days ago,Normal,A few days
+2026-10-06 11:40:29,Apple,Potato - Early Blight,4.7,1–3 days ago,Normal,A few days
+2026-10-06 12:01:53,Apple,Healthy Apple,100.0,1–3 days ago,Normal,A few days
+2026-10-06 12:28:46,Potato,Potato - Late Blight,100.0,1–3 days ago,Normal,More than a week
+2026-10-06 12:30:19,Potato,Potato - Early Blight,99.4,4–7 days ago,Dry,Today
+2026-10-06 13:52:45,Orange,Potato - Early Blight,100.0,Today,Wet,Today
+2026-10-06 22:41:46,Potato,Potato - Early Blight,100.0,4–7 days ago,Normal,A few days
+2026-10-07 08:40:57,Tomato,Tomato - Tomato Yellow Leaf Curl Virus,92.0,Today,Normal,A few days

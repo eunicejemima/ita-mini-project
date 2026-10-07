@@ -1,0 +1,74 @@
+{
+  "Tomato": {
+    "Healthy": {
+      "growth_stages": "Seedling, Vegetative, Flowering, Fruiting.",
+      "monitor_signs": "Consistent green color, upright stems.",
+      "common_issues": "None. Keep up the good work!",
+      "description": "Your plant appears to be healthy."
+    },
+    "Early Blight": {
+      "growth_stages": "Can occur at any stage, often on older leaves first.",
+      "monitor_signs": "Dark concentric rings on older leaves, yellowing halos.",
+      "common_issues": "Fungal infection often driven by moisture.",
+      "description": "A fungal disease that causes concentric target-like spots."
+    },
+    "Late Blight": {
+      "growth_stages": "All stages, very destructive.",
+      "monitor_signs": "Water-soaked spots on leaves, white fungal growth on undersides in wet conditions.",
+      "common_issues": "Fast spreading fungal disease, especially in cool, wet conditions.",
+      "description": "A serious fungal disease that rapidly destroys foliage."
+    },
+    "Bacterial Spot": {
+      "growth_stages": "All stages.",
+      "monitor_signs": "Small, dark, greasy spots on leaves and fruit.",
+      "common_issues": "Bacterial disease spread by splashing water.",
+      "description": "Bacterial disease causing dark spots."
+    },
+    "Leaf Mold": {
+      "growth_stages": "Often during flowering and fruiting.",
+      "monitor_signs": "Pale green or yellowish spots on upper leaf surfaces, olive-green to brown mold on undersides.",
+      "common_issues": "Fungal disease in high humidity.",
+      "description": "Fungal disease thriving in high humidity."
+    }
+  },
+  "Potato": {
+    "Healthy": {
+      "growth_stages": "Sprout, Vegetative, Tuber Initiation, Tuber Bulking, Maturation.",
+      "monitor_signs": "Vigorous green foliage.",
+      "common_issues": "None.",
+      "description": "Your plant appears to be healthy."
+    },
+    "Early Blight": {
+      "growth_stages": "Mid to late season.",
+      "monitor_signs": "Dark rings on older leaves.",
+      "common_issues": "Fungal infection.",
+      "description": "Fungal disease causing target-like spots."
+    },
+    "Late Blight": {
+      "growth_stages": "Any stage, highly destructive.",
+      "monitor_signs": "Irregular water-soaked spots, white fuzz on leaf undersides.",
+      "common_issues": "Spreads fast in wet conditions.",
+      "description": "Rapidly spreading destructive fungal disease."
+    }
+  },
+  "Maize": {
+    "Healthy": {
+      "growth_stages": "Seedling, Vegetative, Silking, Blister, Dough, Dent, Maturity.",
+      "monitor_signs": "Deep green, sturdy stalks.",
+      "common_issues": "None.",
+      "description": "Your plant appears to be healthy."
+    },
+    "Common Rust": {
+      "growth_stages": "Vegetative and reproductive stages.",
+      "monitor_signs": "Reddish-brown pustules on both leaf surfaces.",
+      "common_issues": "Fungal infection.",
+      "description": "Fungal disease causing rust-colored spots."
+    },
+    "Northern Leaf Blight": {
+      "growth_stages": "Mid to late season.",
+      "monitor_signs": "Long, elliptical, grayish-green or tan lesions.",
+      "common_issues": "Fungal disease favored by moderate temperatures and high humidity.",
+      "description": "Fungal disease causing long, cigar-shaped lesions."
+    }
+  }
+}

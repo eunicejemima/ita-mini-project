@@ -1,0 +1,724 @@
+{
+  "Apple - Apple Scab": {
+    "description": "The Apple plant is showing signs of Apple Scab, a fungal infection.",
+    "things_to_inspect": [
+      "Check for leaf wetness or humidity around the plant.",
+      "Inspect the spacing between plants for adequate airflow.",
+      "Look for spreading spots or fuzzy growth on adjacent leaves."
+    ],
+    "monitor_signs": [
+      "Expanding spots or lesions on leaves.",
+      "Fuzzy fungal growth on leaf surfaces.",
+      "Wilting leaves or stems.",
+      "Premature yellowing or leaf drop."
+    ],
+    "general_actions": [
+      "Improve plant spacing to increase airflow.",
+      "Avoid overhead watering to keep leaves dry.",
+      "Prune and carefully dispose of infected leaves."
+    ]
+  },
+  "Apple - Black Rot": {
+    "description": "The Apple plant is showing signs of Black Rot, a fungal infection.",
+    "things_to_inspect": [
+      "Check for leaf wetness or humidity around the plant.",
+      "Inspect the spacing between plants for adequate airflow.",
+      "Look for spreading spots or fuzzy growth on adjacent leaves."
+    ],
+    "monitor_signs": [
+      "Expanding spots or lesions on leaves.",
+      "Fuzzy fungal growth on leaf surfaces.",
+      "Wilting leaves or stems.",
+      "Premature yellowing or leaf drop."
+    ],
+    "general_actions": [
+      "Improve plant spacing to increase airflow.",
+      "Avoid overhead watering to keep leaves dry.",
+      "Prune and carefully dispose of infected leaves."
+    ]
+  },
+  "Apple - Cedar Apple Rust": {
+    "description": "The Apple plant is showing signs of Cedar Apple Rust, a fungal infection.",
+    "things_to_inspect": [
+      "Check for leaf wetness or humidity around the plant.",
+      "Inspect the spacing between plants for adequate airflow.",
+      "Look for spreading spots or fuzzy growth on adjacent leaves."
+    ],
+    "monitor_signs": [
+      "Expanding spots or lesions on leaves.",
+      "Fuzzy fungal growth on leaf surfaces.",
+      "Wilting leaves or stems.",
+      "Premature yellowing or leaf drop."
+    ],
+    "general_actions": [
+      "Improve plant spacing to increase airflow.",
+      "Avoid overhead watering to keep leaves dry.",
+      "Prune and carefully dispose of infected leaves."
+    ]
+  },
+  "Healthy Apple": {
+    "description": "The Apple plant appears to be healthy.",
+    "things_to_inspect": [
+      "Check for overall plant vigor and sturdy stems.",
+      "Ensure new growth is consistent and green.",
+      "Verify that the soil moisture is adequate but not waterlogged."
+    ],
+    "monitor_signs": [
+      "Consistent green color on leaves.",
+      "Sturdy upright growth.",
+      "Absence of spots or discoloration.",
+      "No visible pests on the undersides of leaves."
+    ],
+    "general_actions": [
+      "Maintain your current watering schedule.",
+      "Continue routine crop monitoring.",
+      "Ensure proper nutrient levels."
+    ]
+  },
+  "Healthy Blueberry": {
+    "description": "The Blueberry plant appears to be healthy.",
+    "things_to_inspect": [
+      "Check for overall plant vigor and sturdy stems.",
+      "Ensure new growth is consistent and green.",
+      "Verify that the soil moisture is adequate but not waterlogged."
+    ],
+    "monitor_signs": [
+      "Consistent green color on leaves.",
+      "Sturdy upright growth.",
+      "Absence of spots or discoloration.",
+      "No visible pests on the undersides of leaves."
+    ],
+    "general_actions": [
+      "Maintain your current watering schedule.",
+      "Continue routine crop monitoring.",
+      "Ensure proper nutrient levels."
+    ]
+  },
+  "Cherry (Including Sour) - Powdery Mildew": {
+    "description": "The Cherry (Including Sour) plant is showing signs of Powdery Mildew, a fungal infection.",
+    "things_to_inspect": [
+      "Check for leaf wetness or humidity around the plant.",
+      "Inspect the spacing between plants for adequate airflow.",
+      "Look for spreading spots or fuzzy growth on adjacent leaves."
+    ],
+    "monitor_signs": [
+      "Expanding spots or lesions on leaves.",
+      "Fuzzy fungal growth on leaf surfaces.",
+      "Wilting leaves or stems.",
+      "Premature yellowing or leaf drop."
+    ],
+    "general_actions": [
+      "Improve plant spacing to increase airflow.",
+      "Avoid overhead watering to keep leaves dry.",
+      "Prune and carefully dispose of infected leaves."
+    ]
+  },
+  "Healthy Cherry (Including Sour)": {
+    "description": "The Cherry (Including Sour) plant appears to be healthy.",
+    "things_to_inspect": [
+      "Check for overall plant vigor and sturdy stems.",
+      "Ensure new growth is consistent and green.",
+      "Verify that the soil moisture is adequate but not waterlogged."
+    ],
+    "monitor_signs": [
+      "Consistent green color on leaves.",
+      "Sturdy upright growth.",
+      "Absence of spots or discoloration.",
+      "No visible pests on the undersides of leaves."
+    ],
+    "general_actions": [
+      "Maintain your current watering schedule.",
+      "Continue routine crop monitoring.",
+      "Ensure proper nutrient levels."
+    ]
+  },
+  "Corn (Maize) - Cercospora Leaf Spot Gray Leaf Spot": {
+    "description": "The Corn (Maize) plant is showing signs of Cercospora Leaf Spot Gray Leaf Spot, a fungal infection.",
+    "things_to_inspect": [
+      "Check for leaf wetness or humidity around the plant.",
+      "Inspect the spacing between plants for adequate airflow.",
+      "Look for spreading spots or fuzzy growth on adjacent leaves."
+    ],
+    "monitor_signs": [
+      "Expanding spots or lesions on leaves.",
+      "Fuzzy fungal growth on leaf surfaces.",
+      "Wilting leaves or stems.",
+      "Premature yellowing or leaf drop."
+    ],
+    "general_actions": [
+      "Improve plant spacing to increase airflow.",
+      "Avoid overhead watering to keep leaves dry.",
+      "Prune and carefully dispose of infected leaves."
+    ]
+  },
+  "Corn (Maize) - Common Rust": {
+    "description": "The Corn (Maize) plant is showing signs of Common Rust, a fungal infection.",
+    "things_to_inspect": [
+      "Check for leaf wetness or humidity around the plant.",
+      "Inspect the spacing between plants for adequate airflow.",
+      "Look for spreading spots or fuzzy growth on adjacent leaves."
+    ],
+    "monitor_signs": [
+      "Expanding spots or lesions on leaves.",
+      "Fuzzy fungal growth on leaf surfaces.",
+      "Wilting leaves or stems.",
+      "Premature yellowing or leaf drop."
+    ],
+    "general_actions": [
+      "Improve plant spacing to increase airflow.",
+      "Avoid overhead watering to keep leaves dry.",
+      "Prune and carefully dispose of infected leaves."
+    ]
+  },
+  "Corn (Maize) - Northern Leaf Blight": {
+    "description": "The Corn (Maize) plant is showing signs of Northern Leaf Blight, a fungal infection.",
+    "things_to_inspect": [
+      "Check for leaf wetness or humidity around the plant.",
+      "Inspect the spacing between plants for adequate airflow.",
+      "Look for spreading spots or fuzzy growth on adjacent leaves."
+    ],
+    "monitor_signs": [
+      "Expanding spots or lesions on leaves.",
+      "Fuzzy fungal growth on leaf surfaces.",
+      "Wilting leaves or stems.",
+      "Premature yellowing or leaf drop."
+    ],
+    "general_actions": [
+      "Improve plant spacing to increase airflow.",
+      "Avoid overhead watering to keep leaves dry.",
+      "Prune and carefully dispose of infected leaves."
+    ]
+  },
+  "Healthy Corn (Maize)": {
+    "description": "The Corn (Maize) plant appears to be healthy.",
+    "things_to_inspect": [
+      "Check for overall plant vigor and sturdy stems.",
+      "Ensure new growth is consistent and green.",
+      "Verify that the soil moisture is adequate but not waterlogged."
+    ],
+    "monitor_signs": [
+      "Consistent green color on leaves.",
+      "Sturdy upright growth.",
+      "Absence of spots or discoloration.",
+      "No visible pests on the undersides of leaves."
+    ],
+    "general_actions": [
+      "Maintain your current watering schedule.",
+      "Continue routine crop monitoring.",
+      "Ensure proper nutrient levels."
+    ]
+  },
+  "Grape - Black Rot": {
+    "description": "The Grape plant is showing signs of Black Rot, a fungal infection.",
+    "things_to_inspect": [
+      "Check for leaf wetness or humidity around the plant.",
+      "Inspect the spacing between plants for adequate airflow.",
+      "Look for spreading spots or fuzzy growth on adjacent leaves."
+    ],
+    "monitor_signs": [
+      "Expanding spots or lesions on leaves.",
+      "Fuzzy fungal growth on leaf surfaces.",
+      "Wilting leaves or stems.",
+      "Premature yellowing or leaf drop."
+    ],
+    "general_actions": [
+      "Improve plant spacing to increase airflow.",
+      "Avoid overhead watering to keep leaves dry.",
+      "Prune and carefully dispose of infected leaves."
+    ]
+  },
+  "Grape - Esca (Black Measles)": {
+    "description": "The Grape plant is showing signs of Esca (Black Measles), a fungal infection.",
+    "things_to_inspect": [
+      "Check for leaf wetness or humidity around the plant.",
+      "Inspect the spacing between plants for adequate airflow.",
+      "Look for spreading spots or fuzzy growth on adjacent leaves."
+    ],
+    "monitor_signs": [
+      "Expanding spots or lesions on leaves.",
+      "Fuzzy fungal growth on leaf surfaces.",
+      "Wilting leaves or stems.",
+      "Premature yellowing or leaf drop."
+    ],
+    "general_actions": [
+      "Improve plant spacing to increase airflow.",
+      "Avoid overhead watering to keep leaves dry.",
+      "Prune and carefully dispose of infected leaves."
+    ]
+  },
+  "Grape - Leaf Blight (Isariopsis Leaf Spot)": {
+    "description": "The Grape plant is showing signs of Leaf Blight (Isariopsis Leaf Spot), a fungal infection.",
+    "things_to_inspect": [
+      "Check for leaf wetness or humidity around the plant.",
+      "Inspect the spacing between plants for adequate airflow.",
+      "Look for spreading spots or fuzzy growth on adjacent leaves."
+    ],
+    "monitor_signs": [
+      "Expanding spots or lesions on leaves.",
+      "Fuzzy fungal growth on leaf surfaces.",
+      "Wilting leaves or stems.",
+      "Premature yellowing or leaf drop."
+    ],
+    "general_actions": [
+      "Improve plant spacing to increase airflow.",
+      "Avoid overhead watering to keep leaves dry.",
+      "Prune and carefully dispose of infected leaves."
+    ]
+  },
+  "Healthy Grape": {
+    "description": "The Grape plant appears to be healthy.",
+    "things_to_inspect": [
+      "Check for overall plant vigor and sturdy stems.",
+      "Ensure new growth is consistent and green.",
+      "Verify that the soil moisture is adequate but not waterlogged."
+    ],
+    "monitor_signs": [
+      "Consistent green color on leaves.",
+      "Sturdy upright growth.",
+      "Absence of spots or discoloration.",
+      "No visible pests on the undersides of leaves."
+    ],
+    "general_actions": [
+      "Maintain your current watering schedule.",
+      "Continue routine crop monitoring.",
+      "Ensure proper nutrient levels."
+    ]
+  },
+  "Orange - Haunglongbing (Citrus Greening)": {
+    "description": "The Orange plant is showing signs of Haunglongbing (Citrus Greening), a bacterial infection.",
+    "things_to_inspect": [
+      "Look for water-soaked lesions or oozing on stems.",
+      "Check for yellow halos around dark spots.",
+      "Inspect if nearby plants are showing similar sudden symptoms."
+    ],
+    "monitor_signs": [
+      "Water-soaked lesions on leaves or fruit.",
+      "Yellow halos around distinct dark spots.",
+      "Oozing from stems or lesions.",
+      "Rapid spread of spots during wet weather."
+    ],
+    "general_actions": [
+      "Avoid handling plants when they are wet to prevent spread.",
+      "Avoid overhead watering completely.",
+      "Sterilize tools after use on infected plants."
+    ]
+  },
+  "Peach - Bacterial Spot": {
+    "description": "The Peach plant is showing signs of Bacterial Spot, a bacterial infection.",
+    "things_to_inspect": [
+      "Look for water-soaked lesions or oozing on stems.",
+      "Check for yellow halos around dark spots.",
+      "Inspect if nearby plants are showing similar sudden symptoms."
+    ],
+    "monitor_signs": [
+      "Water-soaked lesions on leaves or fruit.",
+      "Yellow halos around distinct dark spots.",
+      "Oozing from stems or lesions.",
+      "Rapid spread of spots during wet weather."
+    ],
+    "general_actions": [
+      "Avoid handling plants when they are wet to prevent spread.",
+      "Avoid overhead watering completely.",
+      "Sterilize tools after use on infected plants."
+    ]
+  },
+  "Healthy Peach": {
+    "description": "The Peach plant appears to be healthy.",
+    "things_to_inspect": [
+      "Check for overall plant vigor and sturdy stems.",
+      "Ensure new growth is consistent and green.",
+      "Verify that the soil moisture is adequate but not waterlogged."
+    ],
+    "monitor_signs": [
+      "Consistent green color on leaves.",
+      "Sturdy upright growth.",
+      "Absence of spots or discoloration.",
+      "No visible pests on the undersides of leaves."
+    ],
+    "general_actions": [
+      "Maintain your current watering schedule.",
+      "Continue routine crop monitoring.",
+      "Ensure proper nutrient levels."
+    ]
+  },
+  "Pepper, Bell - Bacterial Spot": {
+    "description": "The Pepper, Bell plant is showing signs of Bacterial Spot, a bacterial infection.",
+    "things_to_inspect": [
+      "Look for water-soaked lesions or oozing on stems.",
+      "Check for yellow halos around dark spots.",
+      "Inspect if nearby plants are showing similar sudden symptoms."
+    ],
+    "monitor_signs": [
+      "Water-soaked lesions on leaves or fruit.",
+      "Yellow halos around distinct dark spots.",
+      "Oozing from stems or lesions.",
+      "Rapid spread of spots during wet weather."
+    ],
+    "general_actions": [
+      "Avoid handling plants when they are wet to prevent spread.",
+      "Avoid overhead watering completely.",
+      "Sterilize tools after use on infected plants."
+    ]
+  },
+  "Healthy Pepper, Bell": {
+    "description": "The Pepper, Bell plant appears to be healthy.",
+    "things_to_inspect": [
+      "Check for overall plant vigor and sturdy stems.",
+      "Ensure new growth is consistent and green.",
+      "Verify that the soil moisture is adequate but not waterlogged."
+    ],
+    "monitor_signs": [
+      "Consistent green color on leaves.",
+      "Sturdy upright growth.",
+      "Absence of spots or discoloration.",
+      "No visible pests on the undersides of leaves."
+    ],
+    "general_actions": [
+      "Maintain your current watering schedule.",
+      "Continue routine crop monitoring.",
+      "Ensure proper nutrient levels."
+    ]
+  },
+  "Potato - Early Blight": {
+    "description": "The Potato plant is showing signs of Early Blight, a fungal infection.",
+    "things_to_inspect": [
+      "Check for leaf wetness or humidity around the plant.",
+      "Inspect the spacing between plants for adequate airflow.",
+      "Look for spreading spots or fuzzy growth on adjacent leaves."
+    ],
+    "monitor_signs": [
+      "Expanding spots or lesions on leaves.",
+      "Fuzzy fungal growth on leaf surfaces.",
+      "Wilting leaves or stems.",
+      "Premature yellowing or leaf drop."
+    ],
+    "general_actions": [
+      "Improve plant spacing to increase airflow.",
+      "Avoid overhead watering to keep leaves dry.",
+      "Prune and carefully dispose of infected leaves."
+    ]
+  },
+  "Potato - Late Blight": {
+    "description": "The Potato plant is showing signs of Late Blight, a fungal infection.",
+    "things_to_inspect": [
+      "Check for leaf wetness or humidity around the plant.",
+      "Inspect the spacing between plants for adequate airflow.",
+      "Look for spreading spots or fuzzy growth on adjacent leaves."
+    ],
+    "monitor_signs": [
+      "Expanding spots or lesions on leaves.",
+      "Fuzzy fungal growth on leaf surfaces.",
+      "Wilting leaves or stems.",
+      "Premature yellowing or leaf drop."
+    ],
+    "general_actions": [
+      "Improve plant spacing to increase airflow.",
+      "Avoid overhead watering to keep leaves dry.",
+      "Prune and carefully dispose of infected leaves."
+    ]
+  },
+  "Healthy Potato": {
+    "description": "The Potato plant appears to be healthy.",
+    "things_to_inspect": [
+      "Check for overall plant vigor and sturdy stems.",
+      "Ensure new growth is consistent and green.",
+      "Verify that the soil moisture is adequate but not waterlogged."
+    ],
+    "monitor_signs": [
+      "Consistent green color on leaves.",
+      "Sturdy upright growth.",
+      "Absence of spots or discoloration.",
+      "No visible pests on the undersides of leaves."
+    ],
+    "general_actions": [
+      "Maintain your current watering schedule.",
+      "Continue routine crop monitoring.",
+      "Ensure proper nutrient levels."
+    ]
+  },
+  "Healthy Raspberry": {
+    "description": "The Raspberry plant appears to be healthy.",
+    "things_to_inspect": [
+      "Check for overall plant vigor and sturdy stems.",
+      "Ensure new growth is consistent and green.",
+      "Verify that the soil moisture is adequate but not waterlogged."
+    ],
+    "monitor_signs": [
+      "Consistent green color on leaves.",
+      "Sturdy upright growth.",
+      "Absence of spots or discoloration.",
+      "No visible pests on the undersides of leaves."
+    ],
+    "general_actions": [
+      "Maintain your current watering schedule.",
+      "Continue routine crop monitoring.",
+      "Ensure proper nutrient levels."
+    ]
+  },
+  "Healthy Soybean": {
+    "description": "The Soybean plant appears to be healthy.",
+    "things_to_inspect": [
+      "Check for overall plant vigor and sturdy stems.",
+      "Ensure new growth is consistent and green.",
+      "Verify that the soil moisture is adequate but not waterlogged."
+    ],
+    "monitor_signs": [
+      "Consistent green color on leaves.",
+      "Sturdy upright growth.",
+      "Absence of spots or discoloration.",
+      "No visible pests on the undersides of leaves."
+    ],
+    "general_actions": [
+      "Maintain your current watering schedule.",
+      "Continue routine crop monitoring.",
+      "Ensure proper nutrient levels."
+    ]
+  },
+  "Squash - Powdery Mildew": {
+    "description": "The Squash plant is showing signs of Powdery Mildew, a fungal infection.",
+    "things_to_inspect": [
+      "Check for leaf wetness or humidity around the plant.",
+      "Inspect the spacing between plants for adequate airflow.",
+      "Look for spreading spots or fuzzy growth on adjacent leaves."
+    ],
+    "monitor_signs": [
+      "Expanding spots or lesions on leaves.",
+      "Fuzzy fungal growth on leaf surfaces.",
+      "Wilting leaves or stems.",
+      "Premature yellowing or leaf drop."
+    ],
+    "general_actions": [
+      "Improve plant spacing to increase airflow.",
+      "Avoid overhead watering to keep leaves dry.",
+      "Prune and carefully dispose of infected leaves."
+    ]
+  },
+  "Strawberry - Leaf Scorch": {
+    "description": "The Strawberry plant is showing signs of Leaf Scorch, a fungal infection.",
+    "things_to_inspect": [
+      "Check for leaf wetness or humidity around the plant.",
+      "Inspect the spacing between plants for adequate airflow.",
+      "Look for spreading spots or fuzzy growth on adjacent leaves."
+    ],
+    "monitor_signs": [
+      "Expanding spots or lesions on leaves.",
+      "Fuzzy fungal growth on leaf surfaces.",
+      "Wilting leaves or stems.",
+      "Premature yellowing or leaf drop."
+    ],
+    "general_actions": [
+      "Improve plant spacing to increase airflow.",
+      "Avoid overhead watering to keep leaves dry.",
+      "Prune and carefully dispose of infected leaves."
+    ]
+  },
+  "Healthy Strawberry": {
+    "description": "The Strawberry plant appears to be healthy.",
+    "things_to_inspect": [
+      "Check for overall plant vigor and sturdy stems.",
+      "Ensure new growth is consistent and green.",
+      "Verify that the soil moisture is adequate but not waterlogged."
+    ],
+    "monitor_signs": [
+      "Consistent green color on leaves.",
+      "Sturdy upright growth.",
+      "Absence of spots or discoloration.",
+      "No visible pests on the undersides of leaves."
+    ],
+    "general_actions": [
+      "Maintain your current watering schedule.",
+      "Continue routine crop monitoring.",
+      "Ensure proper nutrient levels."
+    ]
+  },
+  "Tomato - Bacterial Spot": {
+    "description": "The Tomato plant is showing signs of Bacterial Spot, a bacterial infection.",
+    "things_to_inspect": [
+      "Look for water-soaked lesions or oozing on stems.",
+      "Check for yellow halos around dark spots.",
+      "Inspect if nearby plants are showing similar sudden symptoms."
+    ],
+    "monitor_signs": [
+      "Water-soaked lesions on leaves or fruit.",
+      "Yellow halos around distinct dark spots.",
+      "Oozing from stems or lesions.",
+      "Rapid spread of spots during wet weather."
+    ],
+    "general_actions": [
+      "Avoid handling plants when they are wet to prevent spread.",
+      "Avoid overhead watering completely.",
+      "Sterilize tools after use on infected plants."
+    ]
+  },
+  "Tomato - Early Blight": {
+    "description": "The Tomato plant is showing signs of Early Blight, a fungal infection.",
+    "things_to_inspect": [
+      "Check for leaf wetness or humidity around the plant.",
+      "Inspect the spacing between plants for adequate airflow.",
+      "Look for spreading spots or fuzzy growth on adjacent leaves."
+    ],
+    "monitor_signs": [
+      "Expanding spots or lesions on leaves.",
+      "Fuzzy fungal growth on leaf surfaces.",
+      "Wilting leaves or stems.",
+      "Premature yellowing or leaf drop."
+    ],
+    "general_actions": [
+      "Improve plant spacing to increase airflow.",
+      "Avoid overhead watering to keep leaves dry.",
+      "Prune and carefully dispose of infected leaves."
+    ]
+  },
+  "Tomato - Late Blight": {
+    "description": "The Tomato plant is showing signs of Late Blight, a fungal infection.",
+    "things_to_inspect": [
+      "Check for leaf wetness or humidity around the plant.",
+      "Inspect the spacing between plants for adequate airflow.",
+      "Look for spreading spots or fuzzy growth on adjacent leaves."
+    ],
+    "monitor_signs": [
+      "Expanding spots or lesions on leaves.",
+      "Fuzzy fungal growth on leaf surfaces.",
+      "Wilting leaves or stems.",
+      "Premature yellowing or leaf drop."
+    ],
+    "general_actions": [
+      "Improve plant spacing to increase airflow.",
+      "Avoid overhead watering to keep leaves dry.",
+      "Prune and carefully dispose of infected leaves."
+    ]
+  },
+  "Tomato - Leaf Mold": {
+    "description": "The Tomato plant is showing signs of Leaf Mold, a fungal infection.",
+    "things_to_inspect": [
+      "Check for leaf wetness or humidity around the plant.",
+      "Inspect the spacing between plants for adequate airflow.",
+      "Look for spreading spots or fuzzy growth on adjacent leaves."
+    ],
+    "monitor_signs": [
+      "Expanding spots or lesions on leaves.",
+      "Fuzzy fungal growth on leaf surfaces.",
+      "Wilting leaves or stems.",
+      "Premature yellowing or leaf drop."
+    ],
+    "general_actions": [
+      "Improve plant spacing to increase airflow.",
+      "Avoid overhead watering to keep leaves dry.",
+      "Prune and carefully dispose of infected leaves."
+    ]
+  },
+  "Tomato - Septoria Leaf Spot": {
+    "description": "The Tomato plant is showing signs of Septoria Leaf Spot, a fungal infection.",
+    "things_to_inspect": [
+      "Check for leaf wetness or humidity around the plant.",
+      "Inspect the spacing between plants for adequate airflow.",
+      "Look for spreading spots or fuzzy growth on adjacent leaves."
+    ],
+    "monitor_signs": [
+      "Expanding spots or lesions on leaves.",
+      "Fuzzy fungal growth on leaf surfaces.",
+      "Wilting leaves or stems.",
+      "Premature yellowing or leaf drop."
+    ],
+    "general_actions": [
+      "Improve plant spacing to increase airflow.",
+      "Avoid overhead watering to keep leaves dry.",
+      "Prune and carefully dispose of infected leaves."
+    ]
+  },
+  "Tomato - Spider Mites Two-Spotted Spider Mite": {
+    "description": "The Tomato plant is showing signs of Spider Mites Two-Spotted Spider Mite infestation.",
+    "things_to_inspect": [
+      "Inspect the undersides of leaves closely for tiny pests.",
+      "Look for fine webbing between leaves or stems.",
+      "Check for tiny stippling or dot-like damage marks."
+    ],
+    "monitor_signs": [
+      "Tiny webbing on leaves or stems.",
+      "Stippling marks or yellow speckling.",
+      "Visible small insects on the underside of leaves.",
+      "Overall dull or bronze appearance of leaves."
+    ],
+    "general_actions": [
+      "Regularly inspect the undersides of leaves.",
+      "Isolate affected plants if possible.",
+      "Prune heavily infested leaves and discard them away from the crop."
+    ]
+  },
+  "Tomato - Target Spot": {
+    "description": "The Tomato plant is showing signs of Target Spot, a fungal infection.",
+    "things_to_inspect": [
+      "Check for leaf wetness or humidity around the plant.",
+      "Inspect the spacing between plants for adequate airflow.",
+      "Look for spreading spots or fuzzy growth on adjacent leaves."
+    ],
+    "monitor_signs": [
+      "Expanding spots or lesions on leaves.",
+      "Fuzzy fungal growth on leaf surfaces.",
+      "Wilting leaves or stems.",
+      "Premature yellowing or leaf drop."
+    ],
+    "general_actions": [
+      "Improve plant spacing to increase airflow.",
+      "Avoid overhead watering to keep leaves dry.",
+      "Prune and carefully dispose of infected leaves."
+    ]
+  },
+  "Tomato - Tomato Yellow Leaf Curl Virus": {
+    "description": "The Tomato plant is showing signs of Tomato Yellow Leaf Curl Virus, a viral infection.",
+    "things_to_inspect": [
+      "Check for insect vectors like aphids or whiteflies.",
+      "Look for mosaic patterns or unusual mottling on leaves.",
+      "Inspect for stunted or distorted new growth."
+    ],
+    "monitor_signs": [
+      "Yellow mottling or mosaic patterns.",
+      "Leaf curling or cupping.",
+      "Stunted or distorted plant growth.",
+      "Lack of normal fruit development."
+    ],
+    "general_actions": [
+      "Check for and manage insect vectors.",
+      "Isolate or remove suspicious plants immediately.",
+      "Keep the area clear of weeds that may host the virus."
+    ]
+  },
+  "Tomato - Tomato Mosaic Virus": {
+    "description": "The Tomato plant is showing signs of Tomato Mosaic Virus, a viral infection.",
+    "things_to_inspect": [
+      "Check for insect vectors like aphids or whiteflies.",
+      "Look for mosaic patterns or unusual mottling on leaves.",
+      "Inspect for stunted or distorted new growth."
+    ],
+    "monitor_signs": [
+      "Yellow mottling or mosaic patterns.",
+      "Leaf curling or cupping.",
+      "Stunted or distorted plant growth.",
+      "Lack of normal fruit development."
+    ],
+    "general_actions": [
+      "Check for and manage insect vectors.",
+      "Isolate or remove suspicious plants immediately.",
+      "Keep the area clear of weeds that may host the virus."
+    ]
+  },
+  "Healthy Tomato": {
+    "description": "The Tomato plant appears to be healthy.",
+    "things_to_inspect": [
+      "Check for overall plant vigor and sturdy stems.",
+      "Ensure new growth is consistent and green.",
+      "Verify that the soil moisture is adequate but not waterlogged."
+    ],
+    "monitor_signs": [
+      "Consistent green color on leaves.",
+      "Sturdy upright growth.",
+      "Absence of spots or discoloration.",
+      "No visible pests on the undersides of leaves."
+    ],
+    "general_actions": [
+      "Maintain your current watering schedule.",
+      "Continue routine crop monitoring.",
+      "Ensure proper nutrient levels."
+    ]
+  }
+}

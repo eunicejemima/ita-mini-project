@@ -1,0 +1,6 @@
+timestamp,crop,prediction,confidence,rain,soil,duration
+2026-10-05 11:18:48,Maize,Northern Leaf Blight,70.8,Today,Normal,Today
+2026-10-05 11:32:32,Tomato,Late Blight,70.9,4–7 days ago,Normal,A few days
+2026-10-05 11:32:47,Tomato,Early Blight,96.3,4–7 days ago,Normal,A few days
+2026-10-05 11:34:35,Tomato,Bacterial Spot,79.8,Today,Wet,Today
+2026-10-05 11:42:06,Potato,Late Blight,60.6,4–7 days ago,Normal,A few days

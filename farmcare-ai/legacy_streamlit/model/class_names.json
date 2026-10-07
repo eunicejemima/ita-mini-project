@@ -1,0 +1,5 @@
+{
+  "Tomato": ["Healthy", "Early Blight", "Late Blight", "Bacterial Spot", "Leaf Mold"],
+  "Potato": ["Healthy", "Early Blight", "Late Blight"],
+  "Maize": ["Healthy", "Common Rust", "Northern Leaf Blight"]
+}
